@@ -46,6 +46,7 @@ Instead of depending completely on traditional phone-based reporting, the platfo
 
 During emergencies, **every second matters**.
 
+
 Traditional emergency reporting can involve:
 
 * 📞 Phone-based communication
