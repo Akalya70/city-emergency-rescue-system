@@ -16,6 +16,7 @@
 
 ## 🌟 Project Overview
 
+
 **City Emergency Rescue System** is a smart web-based emergency management platform designed to help citizens quickly report emergency situations and enable authorities or rescue teams to efficiently monitor, manage, and respond to those incidents.
 
 The system provides a centralized platform where emergency information can be submitted, stored, monitored, and processed in real time.
