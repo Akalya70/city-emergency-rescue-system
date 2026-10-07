@@ -12,7 +12,6 @@
   <b>⚡ A Smart Digital Platform for Faster Emergency Reporting, Monitoring & Rescue Coordination</b>
 </p>
 
-
 ---
 
 ## 🌟 Project Overview
